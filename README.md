@@ -1,4 +1,4 @@
-# Pilvipalvelut Course Assignment done:
+# Pilvipalvelut Course Assignments done:
 
 ## Week 1
 
@@ -18,7 +18,7 @@ Simple dynamic [website](https://pilvipalvelut-60708.web.app) using Google Fireb
 
 ## Week 5
 
-Installed [Docker container](https://github.com/alexta69/metube) that allow user to download video, audio, captions and thumbnails from browser UI. Not linkin the site here, since I dont want anybody on the internet to be able to download things to my VPS.
+Installed [Docker container](https://github.com/alexta69/metube) that allow user to download video, audio, captions and thumbnails from browser UI. Not linking the site here, since I dont want anybody on the internet to be able to download things to my VPS.
 
 ## Week 6
 
@@ -34,4 +34,4 @@ Installed [Docker container](https://github.com/alexta69/metube) that allow user
 ## Extra Assingments
 ### Bundle E
 
-Setting up [this site](https://github.com/Ard3J/Ard3J.github.io) using markdown.
+Setting up [this site](https://github.com/Ard3J/Ard3J.github.io) using markdown. [Source](https://github.com/Ard3J/Ard3J.github.io/edit/main/README.md)
