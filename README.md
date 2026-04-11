@@ -10,7 +10,7 @@ Chose answering questions, since other options had technical issues or required 
 
 ## Week 3
 
-Set simple static Cloudflare [webpage](https://pilvipalvelut-cloudflare.arttujamsa.workers.dev) that pulls its content from my [github repo](https://github.com/Ard3J/Pilvipalvelut-Cloudflare).
+Set simple static Cloudflare [webpage](https://pilvipalvelut-cloudflare.arttujamsa.workers.dev) that pulls its content from my [github repo](https://github.com/Ard3J/Pilvipalvelut-Cloudflare/blob/main/index.html).
 
 ## Week 4
 
