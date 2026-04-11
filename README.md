@@ -34,4 +34,4 @@ Installed [Docker container](https://github.com/alexta69/metube) that allow user
 ## Extra Assingments
 ### Bundle E
 
-Setting up [this site](https://github.com/Ard3J/Ard3J.github.io) using markdown. [Source](https://github.com/Ard3J/Ard3J.github.io/edit/main/README.md)
+Setting up [this site](https://ard3j.github.io) using markdown. [Source](https://github.com/Ard3J/Ard3J.github.io/edit/main/README.md)
