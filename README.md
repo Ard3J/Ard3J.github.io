@@ -35,3 +35,7 @@ Installed [Docker container](https://github.com/alexta69/metube) that allow user
 ### Bundle E
 
 Setting up [this site](https://ard3j.github.io) using markdown. [Source](https://github.com/Ard3J/Ard3J.github.io/edit/main/README.md)
+
+### Bundle L
+
+Set up a simple script using Playwright to fetch weather once per hour and both show it in console and store it in CSV.
