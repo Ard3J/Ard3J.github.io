@@ -18,7 +18,7 @@ Simple dynamic [website](https://pilvipalvelut-60708.web.app) using Google Fireb
 
 ## Week 5
 
-[Docker container](https://github.com/alexta69/metube) that allow user to download video, audio, captions and thumbnails from browser UI.
+Installed [Docker container](https://github.com/alexta69/metube) that allow user to download video, audio, captions and thumbnails from browser UI. Not linkin the site here, since I dont want anybody on the internet to be able to download things to my VPS.
 
 ## Week 6
 
