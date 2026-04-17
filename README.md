@@ -22,7 +22,7 @@ Installed [Docker container](https://github.com/alexta69/metube) that allow user
 
 ## Week 6
 
-
+Set up a simple LEMP-stack on cPouta. Shows simple [message](http://86.50.21.239).
 
 ## Week 7
 
