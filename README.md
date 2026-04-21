@@ -30,6 +30,7 @@ Set up a simple LEMP-stack on cPouta. Shows simple [message](http://86.50.21.239
 
 ## Week 8
 
+Reserved for peer reviews.
 
 ## Extra Assingments
 ### Bundle E
@@ -39,3 +40,7 @@ Setting up [this site](https://ard3j.github.io) using markdown. [Source](https:/
 ### Bundle L
 
 Set up a simple script using Playwright to fetch weather once per hour and both show it in console and store it in CSV.
+
+### Bundle S
+
+Did first three labs on [KodeKloud](https://kodekloud.com/studio/labs/docker/).
